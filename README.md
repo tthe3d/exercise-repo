@@ -16,4 +16,9 @@ bash conflict
 
 what ? another conflict ?
 
+
 branch 1
+
+ 
+some changes branch2
+
