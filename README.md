@@ -3,6 +3,8 @@ This is made for exercises!
 
 Conflict is resolved obvously.
 
-Okay here it is
-
 Come on ,faster boy!
+
+Hello , looking for another branch conflict.
+
+Okay here it is .
