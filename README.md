@@ -15,3 +15,5 @@ bash change
 bash conflict
 
 what ? another conflict ?
+ 
+some changes branch2
