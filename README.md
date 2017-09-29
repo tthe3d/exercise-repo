@@ -1,2 +1,3 @@
 # exercise-repo
-I dont know yet
+
+This is made for exercises!
